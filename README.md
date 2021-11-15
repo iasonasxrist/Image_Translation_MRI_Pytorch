@@ -1,4 +1,4 @@
-# ImageTranslation_pytorch
+# Image_Translation_MRI_Pytorch
  Medical image analysis using pytorch for image synthesis
 
 In this project, we will be introducing you to the the role of a machine learning engineer/researcher at a healthcare technology company specializing in medical imaging applications. Our team wants to process and analyze magnetic resonance (MR) images of the brain. An MR imaging system is a flexible device that can create multiple types of images based on what a physician wants to see, but not all types of images are acquired in every scan due to time constraints. Your current processing and analysis algorithms require two types of MR images, but a new set of customer data only has one of those types. However, you have access to a fairly large, preprocessed dataset of paired examples of the two types of MR images, and you decide that deep learning would best perform this type of image transformation task.
